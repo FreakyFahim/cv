@@ -1,0 +1,63 @@
+hr{
+    background-color: azure;
+    border-color: rgb(118, 115, 112);
+    border-style: dotted none none;
+    border-top-width: 5px;
+    height: 0px;
+    width: 7%;
+}
+body{
+    background-color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+h1{
+    color: #589d9d;
+
+}
+h2{
+    color: #589d9d;
+
+}
+h3{
+    color: #589d9d;
+}
+.button {
+    border: none;
+    color: azure;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: monospace;
+    border-radius: 20px;
+  }
+  
+  .button1 {
+    background-color: azure;
+    color: black;
+    border: 2px solid #589d9d;
+  }
+  
+  .button1:hover {
+    background-color: #589d9d;
+    color: white;
+  }
+  .button2{
+    background-color: azure;
+    color: black;
+    border: 5px solid #589d9d;
+    border-radius: 0px;
+    font-size: 30px;
+    
+  }
+  .button2:hover{
+    background-color: #589d9d;
+    color: white;
+  }
+label{
+    font-family: 'Courier New', Courier, monospace;
+}
